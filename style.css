@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: whitesmoke;
+    display: grid;
+    grid-template-columns: 30rem 10rem 35rem;
+    height: 10rem;
+    line-height: 1.5rem;
+}
