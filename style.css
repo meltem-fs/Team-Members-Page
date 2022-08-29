@@ -19,10 +19,10 @@ header {
 }
 
 .container {
-  width: 86.3rem;
+  width: 78.4rem;
   margin: auto;
   display: grid;
-  grid-template-columns: 28rem 28rem 28rem;
+  grid-template-columns: 24rem 24rem 24rem;
   grid-template-rows: 32rem 32rem;
   gap: 5rem 3rem;
   padding-bottom: 10rem;
@@ -82,8 +82,8 @@ header {
     width: 56rem;
     margin: auto;
     display: grid;
-    grid-template-columns: 28rem 28rem;
-    grid-template-rows: 32rem 32rem 32rem;
+    grid-template-columns: 24rem 24rem;
+    grid-template-rows: 33rem 33rem 33rem;
     padding-bottom: 10rem;
     gap: 5rem 3rem;
   }
@@ -113,23 +113,21 @@ header {
     width: 40rem;
     margin: auto;
     display: grid;
-    grid-template-columns: 28rem;
-    grid-template-rows: 32rem 32rem 32rem 32rem 32rem 32rem;
-    gap: 7rem;
+    grid-template-columns: 24rem;
+    grid-template-rows: 35rem 35rem 35rem 35rem 35rem 35rem;
+    gap: 5rem;
     padding-left: 8rem;
     padding-top: 1rem;
   }
-  .img-2 {
-    margin-top: 0rem;
-    margin-bottom: 0rem;
-  }
+   
+  .img-2,
   .img-4,
   .img-5,
   .img-6 {
     margin-top: 0rem;
     margin-bottom: 0rem;
   }
-  h4{
-    margin-top: 1rem;
-  }
+  /* h4{
+    margin-top: 1.9rem;
+  } */
 }
