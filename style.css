@@ -115,7 +115,7 @@ header {
     display: grid;
     grid-template-columns: 24rem;
     grid-template-rows: 35rem 35rem 35rem 35rem 35rem 35rem;
-    gap: 5rem;
+    gap: 7rem;
     padding-left: 8rem;
     padding-top: 1rem;
   }
@@ -127,7 +127,7 @@ header {
     margin-top: 0rem;
     margin-bottom: 0rem;
   }
-  /* h4{
-    margin-top: 1.9rem;
-  } */
+  h4{
+    margin-top: 2.4rem;
+  }
 }
